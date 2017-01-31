@@ -1,1 +1,1 @@
-# general
+# General course content
